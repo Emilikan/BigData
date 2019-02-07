@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cc996bf7-1849-4be1-baee-c624b298a6e4" name="Default Changelist" comment="" />
+    <list default="true" id="cc996bf7-1849-4be1-baee-c624b298a6e4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,7 +101,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/https:/github.com/Emilikan/BigData.git" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -299,12 +301,12 @@
       <workItem from="1549133218828" duration="13773000" />
       <workItem from="1549284409195" duration="3922000" />
       <workItem from="1549312430350" duration="7102000" />
-      <workItem from="1549392614937" duration="14495000" />
+      <workItem from="1549392614937" duration="15092000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39292000" />
+    <option name="totallyTimeSpent" value="39889000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1600" y="-1" width="1920" height="1053" extended-state="6" />
