@@ -60,7 +60,7 @@ def number_five():
 
 
 def number_six():
-    #ответ не вернй
+    # ответ не верный
 
     file = pd.read_csv('./titanic.csv', escapechar='`', low_memory=False, dtype={'Age': str})
     m_file = file['Name']
