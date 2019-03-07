@@ -1,3 +1,4 @@
+# машинное обучение, основанное на деревьях
 import math
 
 import pandas as pd
@@ -16,7 +17,10 @@ def main():
     print(X.columns)
     clf.fit(X, Y)
     print(clf.feature_importances_)
+
+    print(clf.predict([[1, 263, 19, 0]]))
     print(clf.predict([[2, 80, 16, 1]]))
+    print(clf.predict_proba([[1, 263, 19, 0]]))  # покажет, к какому классу относится наш объект
 
 
 main()
